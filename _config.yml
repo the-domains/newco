@@ -1,0 +1,88 @@
+layout_spectrum: 0.510398177125648
+typography_spectrum: 0.1085910218306771
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.49946409779019874
+  lightness: 0.4960316585926431
+  saturation: 0.8643638679567761
+  rhythmicContrast: 0.9686060006927588
+name: Augmented SCM
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: The Start
+    id: 3229ca71-cb10-4d24-b531-ebec0d19869b
+    type: content
+  - name: The Big Boss
+    url: 'https://www.linkedin.com/in/alagu/'
+    type: external
+  - name: The Coder
+    url: 'https://www.linkedin.com/in/gkrishna/'
+    type: external
+title: AugementedSCM
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/758f044c-9f1a-4f7b-80f5-bcf1a98dcd95.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/758f044c-9f1a-4f7b-80f5-bcf1a98dcd95.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0ed732-37cf-40f6-929c-c87ea0d95cec.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0ed732-37cf-40f6-929c-c87ea0d95cec.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: NI + AI in Use
+purpose:
+  - type: contact
+    url: 'mailto:alagu.b@gmail.com'
+    label: Contact me
+url: 'https://thegrid.ai/augmentedSCM/'
+github: true
